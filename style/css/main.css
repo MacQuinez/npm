@@ -19,7 +19,7 @@ body {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  font-size: 16px;
+  font-size: 48px;
   z-index: 10; }
   .header-menu h1 {
     display: none; }
